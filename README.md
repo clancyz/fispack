@@ -1,2 +1,3 @@
 # fispack
-:package: fis + webpack intergration solution for fis-based server-side template projects
+:package: fis + webpack integration solution for fis-based server-side template projects
+
